@@ -8,6 +8,12 @@ Add network discovery for finding the host on your network
 
 Make UI a little more responsive
 
+# Usage
+To start the server:
+    ```
+    java -jar server/echoserv_ssl.py
+    ```
+
 # Requirements
 Portecle (http://portecle.sourceforge.net/)
 Java (for keytool)
