@@ -25,3 +25,6 @@ proguard/
 
 # Log Files
 *.log
+
+# Ignore the Python pyc files
+*.pyc

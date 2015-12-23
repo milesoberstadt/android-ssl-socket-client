@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">WiFi Detection Tuner</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="send_text">Send Text</string>
+    <string name="text_send">Text To Send</string>
+    <string name="received_text">Received Text</string>
+</resources>
